@@ -10,6 +10,8 @@
   <p align="center">
     Organization focusing on reverse engineering & automation.
     <br />
+    Current team size: 6 members
+    <br />
     <br />
     <a href="https://github.com/sys32-dev/.github/issues">Report Bug</a>
     ·
