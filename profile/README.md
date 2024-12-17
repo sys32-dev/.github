@@ -7,7 +7,6 @@
   </a>
   
   <h2 align="center">sys32.dev</h3>
-
   <p align="center">
     Organization focusing on reverse engineering & automation.
     <br />
@@ -18,6 +17,35 @@
         ·
     <a href="mailto://admin@sys32.dev">Contact</a>
   </p>
+</div>
+
+---------------------------------------
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Status-In%20Development-blue" alt="PermX Status"/>
+        <br/>
+        <sub>PerimeterX</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Status-Scheduled-yellow" alt="Kasada Status"/>
+        <br/>
+        <sub>Kasada</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Status-Scheduled-yellow" alt="Datadome Status"/>
+        <br/>
+        <sub>Datadome</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Status-Scheduled-yellow" alt="Datadome Status"/>
+        <br/>
+        <sub>Shape</sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---------------------------------------
