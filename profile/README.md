@@ -30,7 +30,7 @@
         <sub>PerimeterX</sub>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Status-Scheduled-yellow" alt="Kasada Status"/>
+        <img src="https://img.shields.io/badge/Status-In%20Development-blue" alt="Kasada Status"/>
         <br/>
         <sub>Kasada</sub>
       </td>
